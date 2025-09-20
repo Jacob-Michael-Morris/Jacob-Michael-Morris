@@ -1,4 +1,7 @@
-## Hello there 👋
+
+
+<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<h3 align="center">Building cool things with code. Open to opportunities & collaboration.</h3>
 
 <!--
 **Jacob-Michael-Morris/Jacob-Michael-Morris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
