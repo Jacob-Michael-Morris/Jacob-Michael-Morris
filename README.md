@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Welcome to my page!</h1>
 <h3 align="center">Building cool things with code. Open to opportunities & collaboration.</h3>
 
 <!--
