@@ -42,7 +42,8 @@ Hello! I'm **Jacob Morris**, a transitioning veteran with 5+ years of experience
 | Project | Description |
 |--------|-------------|
 | [**Applying Lightweight Fine-Tuning to a Foundation Model**](https://colab.research.google.com/drive/1wwhmrDoLZdVfIpo1l1RKV3vImWJBjkFt?usp=sharing) | In this project I evaluated, fine-tuned, and compared a pretrained transformer model using PEFT with LoRA. It begins by loading a pretrained distilbert model and the AG News dataset, tokenizing, and evaluating the base model on a small subset to establish baseline performance. Then LoRA is set up to target specific attention layers within distilbert, which allows lightweight fine-tuning by training only the adapter layers while freezing the rest of the model. The fine-tuned model is trained using Hugging Face and finally and evaluation is done on the same test subset which is compared to the baseline. This project highlights how LoRA enables efficient and effective fine-tuning with minimal resource usage while maintaining competitive performance. |
-| [**Project Two**](https://github.com/yourusername/project2) | Another cool project I’ve worked on. |
+| [**Thesis Genius Web Application**](https://github.com/Jacob-Michael-Morris/thesis-genius) | A web-based platform designed for managing theses and academic discussions. This project includes a Flask backend API and a React frontend, built for scalability, ease of use, and developer efficiency.. |
+| [**Thesis Genius Web Application**](https://github.com/Jacob-Michael-Morris/thesis-genius) | A web-based platform designed for managing theses and academic discussions. This project includes a Flask backend API and a React frontend, built for scalability, ease of use, and developer efficiency.. |
 
 ---
 
